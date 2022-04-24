@@ -1,5 +1,4 @@
 # PyBer-Analysis
-Ride Sharing App
 PyBer Ride Share Analysis Project
 
 This project involves performing a 3 month analysis for PyBer, a ride share company whose scope of routes are spread among urban, suburban and rural riders. As part of this analysis, following needs to be performed: 
